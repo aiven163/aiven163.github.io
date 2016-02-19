@@ -1,4 +1,4 @@
-.content {
+content {
   
    font-family: Helvetica, Arial, "Hiragino Sans GB", sans-serif;
   
@@ -60,11 +60,8 @@ content{
     font-weight: normal;
     background: ghostwhite;
     display: block;
-    margin: 5% 10% 5% 10%;
-    padding: 2% 10% 5% 10%;
-    width: 60%;
+    width: 90%;
     margin-top: 75px;
-  
     /*border-left: 1px solid LightGrey;*/
     border: 1px solid LightGrey;
     
